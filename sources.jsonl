@@ -1,0 +1,15 @@
+{"id":"bruenChain","description":"source-descriptions/bruenChain.md","implementation":"implementations/bruenChain.m"}
+{"id":"bakerEbertQMinusOneNest","description":"source-descriptions/bakerEbertQMinusOneNest.md","implementation":"implementations/bakerEbertQMinusOneNest.m"}
+{"id":"bakerEbertMixedNest","description":"source-descriptions/bakerEbertMixedNest.md","implementation":"implementations/bakerEbertMixedNest.m"}
+{"id":"bakerEbertQNest","description":"source-descriptions/bakerEbertQNest.md","implementation":"implementations/bakerEbertQNest.m"}
+{"id":"ebertQPlusOneNest","description":"source-descriptions/ebertQPlusOneNest.md","implementation":"implementations/ebertQPlusOneNest.m"}
+{"id":"princeQPlusThreeNest","description":"source-descriptions/princeQPlusThreeNest.md","implementation":"implementations/princeQPlusThreeNest.m"}
+{"id":"bundleMixedNest","description":"source-descriptions/bundleMixedNest.md","implementation":"implementations/bundleMixedNest.m"}
+{"id":"flockStitchedNest","description":"source-descriptions/flockStitchedNest.md","implementation":"implementations/flockStitchedNest.m"}
+{"id":"bundleStitchedNest","description":"source-descriptions/bundleStitchedNest.md","implementation":"implementations/bundleStitchedNest.m"}
+{"id":"bakerEbertQMinusOneNestCompanionRegulus","description":"source-descriptions/bakerEbertQMinusOneNestCompanionRegulus.md","implementation":"implementations/bakerEbertQMinusOneNestCompanionRegulus.m"}
+{"id":"bakerEbertQMinusOneNestBundleRegulus","description":"source-descriptions/bakerEbertQMinusOneNestBundleRegulus.md","implementation":"implementations/bakerEbertQMinusOneNestBundleRegulus.m"}
+{"id":"bakerEbertTwoQMinusOneNest","description":"source-descriptions/bakerEbertTwoQMinusOneNest.md","implementation":"implementations/bakerEbertTwoQMinusOneNest.m"}
+{"id":"bakerEbertMixedNestFlockReguli","description":"source-descriptions/bakerEbertMixedNestFlockReguli.md","implementation":"implementations/bakerEbertMixedNestFlockReguli.m"}
+{"id":"bakerEbertQNestPencilRegulus","description":"source-descriptions/bakerEbertQNestPencilRegulus.md","implementation":"implementations/bakerEbertQNestPencilRegulus.m"}
+{"id":"ebertQPlusOneNestFlockReguli","description":"source-descriptions/ebertQPlusOneNestFlockReguli.md","implementation":"implementations/ebertQPlusOneNestFlockReguli.m"}
