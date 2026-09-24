@@ -1,0 +1,23 @@
+{
+  "creators": [
+    {
+      "name": "Dover, Jeremy M.",
+	  "orcid": "0009-0006-4458-5380"
+    }
+  ],
+  "title": "Replaceable complexes in regular spreads of PG(3,q) for small q: a dataset",
+  "version": "1.0.0",
+  "access_right": "open",
+  "license": "cc0-1.0",
+  "upload_type": "software",
+  "language": "eng",
+  "keywords": [
+    "finite geometry",
+    "translation planes",
+    "regular spreads",
+    "nests",
+	"subregular spreads",
+    "replaceable complexes",
+    "Miquelian inversive planes"
+  ]
+}
